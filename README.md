@@ -87,7 +87,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd blog-app
-  git clone https://github.com/kaizipaul/recipe-app.git
+  git clone https://github.com/blase147/recipe_app.git
 ```
 
 ### Install
